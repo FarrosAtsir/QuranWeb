@@ -49,7 +49,7 @@ function getSurat(){
                 <p>${s.nomor}</p>
                 <h3 class="text-end">${s.ar}</h3>
                 <p>${s.tr}</p>
-                <p>${s.idn}t</p>
+                <p>${s.idn}</p>
             </div>
         </div>`;
         });
