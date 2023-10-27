@@ -1,0 +1,11 @@
+.card-surat{
+    cursor:pointer;
+    transition:.3s;
+}
+.card-surat:hover{
+    box-shadow: 0 0 .5rem gray;
+}
+.nama{
+    color: black;
+    font-weight: 600;
+}
